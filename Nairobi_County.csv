@@ -1,0 +1,16 @@
+PlantID,PlantName,PlantLocation,PlantCapacity,IncidentID,IncidentDate,IncidentSeverity,IncidentStatus,IncidentReportedBy,ScheduleID,MaintenanceDate,MaintenanceStatus,TechnicianID,TechnicianName,TechnicianSpecialty,TechnicianContact,AreaID,AreaName,AreaPopulation,WaterQualityIndex
+1,"Dandora Treatment Plant",Dandora,50000,1,2024-07-15,High,Resolved,Citizen,1,2024-08-01,Completed,1,"John Doe",Plumbing,john.doe@example.com,NULL,NULL,NULL,NULL
+2,"Kariobangi Treatment Plant",Kariobangi,30000,2,2024-07-20,Low,Pending,"Field Officer",2,2024-08-05,Scheduled,2,"Jane Smith","Waste Management",jane.smith@example.com,NULL,NULL,NULL,NULL
+3,"Ruai Treatment Plant",Ruai,60000,3,2024-07-25,Medium,Resolved,Citizen,3,2024-08-07,"In Progress",3,"Robert Brown","Sewer Engineering",robert.brown@example.com,NULL,NULL,NULL,NULL
+4,"Nairobi South Treatment Plant","Nairobi South",40000,4,2024-07-30,High,Pending,Resident,4,2024-08-10,Pending,4,"Emily Davis","Environmental Management",emily.davis@example.com,NULL,NULL,NULL,NULL
+5,"Kikuyu Treatment Plant",Kikuyu,25000,5,2024-08-02,Low,Resolved,Citizen,5,2024-08-12,Scheduled,5,"Michael Wilson",Maintenance,michael.wilson@example.com,NULL,NULL,NULL,NULL
+6,"Langata Treatment Plant",Langata,35000,6,2024-08-10,Medium,Pending,"Field Officer",6,2024-08-15,Completed,6,"Sarah Johnson","Waste Management",sarah.johnson@example.com,8,Langata,170000,78.40
+7,"Kawangware Treatment Plant",Kawangware,28000,7,2024-08-12,High,Resolved,Citizen,7,2024-08-18,Scheduled,7,"David Lee","Sewer Repair",david.lee@example.com,NULL,NULL,NULL,NULL
+8,"Embakasi Treatment Plant",Embakasi,32000,8,2024-08-15,Low,Pending,Resident,8,2024-08-20,"In Progress",8,"Emma Miller","Wastewater Treatment",emma.miller@example.com,7,Embakasi,190000,65.10
+9,"Gikambura Treatment Plant",Gikambura,15000,9,2024-08-18,Medium,Resolved,"Field Officer",9,2024-08-25,Pending,9,"James Williams","Hydraulic Engineering",james.williams@example.com,NULL,NULL,NULL,NULL
+10,"Dagoretti Treatment Plant",Dagoretti,30000,10,2024-08-22,High,Pending,Citizen,10,2024-08-28,Scheduled,10,"Olivia Taylor","Public Health",olivia.taylor@example.com,NULL,NULL,NULL,NULL
+15,"Langata Treatment Plant",Langata,60000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8,Langata,170000,78.40
+17,"Embakasi Plant",Embakasi,35000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,7,Embakasi,190000,65.10
+18,"Kibera Treatment Plant",Kibera,32000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,Kibera,250000,45.30
+19,"Eastleigh Plant",Eastleigh,28000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3,Eastleigh,200000,60.50
+20,"Githurai Treatment Plant",Githurai,29000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,Githurai,210000,58.70
